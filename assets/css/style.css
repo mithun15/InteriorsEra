@@ -289,11 +289,11 @@ nav ul ul li a:hover {
 	margin-left: auto;
 	margin-top: 1px;
 }
-.contact-head-info > h4 {
+.contact-head-info > span {
 	color: #070c1f;
-	font-size: 17px;
 	font-weight: 600;
 	margin-bottom: 3px;
+	margin-left: 10px;
 }
 .contact-head-info > a {
 	display: inline-block;
